@@ -1,0 +1,6 @@
+title: AZYZ DPS META
+
+(is:rocketlauncher and (perk:clown_cartridge or perk:explosive_light))
+or (is:linear and (perk:triple_tap or perk:firing_line))
+or (is:fusionrifle and perk:reservoir_burst)
+or (is:grenadelauncher and perk:chain_reaction)
