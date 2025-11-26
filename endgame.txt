@@ -1,0 +1,9 @@
+title: AZYZ ENDGAME GM/RAID
+
+(is:linear and perk:firing_line)
+or (is:linear and perk:precision_instrument)
+or (is:rocketlauncher and (perk:clown_cartridge or perk:tracking_module))
+or (is:grenadelauncher and perk:chain_reaction)
+or (is:grenadelauncher and perk:field_prep)
+or (is:shotgun and perk:one-two-punch)
+or (is:machinegun and perk:target_lock)
