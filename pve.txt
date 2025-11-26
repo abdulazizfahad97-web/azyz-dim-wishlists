@@ -1,0 +1,9 @@
+title: AZYZ PvE WISHLIST
+
+(is:scout and (perk:explosive_payload or perk:firefly))
+or (is:pulse and (perk:rapid_hit or perk:killclip))
+or (is:fusionrifle and (perk:reservoir_burst or perk:high-impact_reserves))
+or (is:smg and (perk:dynamic_sway or perk:adrenaline_junkie))
+or (is:rocketlauncher and (perk:clown_cartridge or perk:explosive_light))
+or (is:linear and (perk:triple_tap or perk:firing_line))
+or (is:grenadelauncher and (perk:chain_reaction or perk:ambitious_assassin))
