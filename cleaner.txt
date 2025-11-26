@@ -1,0 +1,9 @@
+title: AZYZ VAULT CLEANER
+
+(is:duplicate)
+or (is:blue)
+or (power:<520)
+or (is:badroll)
+or (is:armor stat:total:<60)
+or (season:<18 and not:exotic)
+or (masterwork:<5 and not:is:crafted)
