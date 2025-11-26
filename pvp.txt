@@ -1,0 +1,9 @@
+title: AZYZ PvP WISHLIST
+
+(is:handcannon and (perk:opening_shot or perk:rangefinder or perk:killclip))
+or (is:smg and (perk:rangefinder or perk:target_lock or perk:dynamic_sway))
+or (is:pulse and (perk:desperado or perk:headseeker or perk:killclip))
+or (is:autorifle and (perk:dynamic_sway or perk:rangefinder))
+or (is:shotgun and perk:opening_shot)
+or (is:sniperrifle and (perk:moving_target or perk:opening_shot))
+or (is:sidearm and (perk:rangefinder or perk:swashbuckler))
